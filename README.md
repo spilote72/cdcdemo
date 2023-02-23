@@ -32,3 +32,9 @@ Le principe fonctionne comme prévu. En appliquant l'attribut *JsonIgnore" sur l
 
 Conclusion: **NE PAS UTILISÉ**
 
+
+---
+
+## Références
+
+> Markdown Guide: https://www.markdownguide.org/basic-syntax/
